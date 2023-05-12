@@ -1,0 +1,54 @@
+
+
+
+
+
+
+
+ .judul-form{
+   padding-top: 2rem;
+   text-align: center;
+ }
+ .content-tanggal{
+   display: flex;
+   padding-left: 10px;
+   padding-bottom: 1rem;
+}
+
+.form{
+   padding-left: 10px;
+   padding-top: 10px;
+}
+.form .judulform{
+   color: #fff;
+   background: #000;
+}
+.judul-label{
+   padding-left: 8px;
+   width: 15rem;
+}
+
+.input {
+   margin-left: 3rem;
+   width: 40rem;
+ }
+ 
+ .nomor-label{
+   width: 18px;
+ } 
+
+ .label-cita-cita{
+   font-size: 0.9em;
+ }
+ .kotak {
+   margin-right: 4rem;
+   border: 5px solid black; /* border dengan ketebalan 1px dan warna hitam */
+   width: 130px; /* lebar kotak */
+   height: 36px; /* tinggi kotak */
+ }
+ .form .btn{
+   padding-right: 3rem;
+   float: right;
+ }
+
+ 
